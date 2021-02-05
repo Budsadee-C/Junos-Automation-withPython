@@ -6,4 +6,4 @@
   3. การติดตั้งและใช้งาน Junos-eznc package ทำอย่างไร (How to use and installation with Junos-eznc package?)
   4. ตัวอย่างการประยุกต์ใช้งาน (Example)  
   
-  สามารถเริ่มต้นศึกษาได้ที่ [wiki]("https://github.com/Budsadee-C/Junos-Automation-withPython/wiki/Overview")
+  สามารถเริ่มต้นศึกษาได้ที่ <a href="https://github.com/Budsadee-C/Junos-Automation-withPython/wiki/Overview">wiki</a>
